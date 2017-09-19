@@ -45,6 +45,9 @@ favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
 #favicon_img_path: "https://external.url/favicon.ico"
 
+keybase: yes
+keybase_path: "keybase.txt"
+
 
 # Build settings
 markdown: kramdown

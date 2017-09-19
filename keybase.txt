@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/zironycho
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zironycho.com
+  * I am zironycho (https://keybase.io/zironycho) on keybase.
+  * I have a public key ASBFpr3Bu-np1bvVeBDC7-W7Nws-zTGpaaWWP5S-r88qMQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012045a6bdc1bbe9e9d5bbd57810c2efe5bb370b3ecd31a969a5963f94beafcf2a310a",
+      "host": "keybase.io",
+      "kid": "012045a6bdc1bbe9e9d5bbd57810c2efe5bb370b3ecd31a969a5963f94beafcf2a310a",
+      "uid": "265390b7f8a922e37cbbd1506a9cbd19",
+      "username": "zironycho"
+    },
+    "merkle_root": {
+      "ctime": 1505811700,
+      "hash": "d6a4ae06f6c6296dcaa523f71e039db5c15125ab07ac1c71f0b57ecf15690a05e0eebda6dc4a2521e7ba5c34f3d4bfaeef97eb71291a1af306f13e4975768fc6",
+      "hash_meta": "a0e5ba986b8da0c55bbeba741eb1f8ca25bc77b947d7341a7ce730abb3293255",
+      "seqno": 1409615
+    },
+    "service": {
+      "hostname": "zironycho.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505811706,
+  "expire_in": 504576000,
+  "prev": "50aa4ba13fee5c98064a5ddd1fd84916630c467f6593b8c7b01a21526285ff4a",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRaa9wbvp6dW71XgQwu/luzcLPs0xqWmllj+Uvq/PKjEKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDVhNmJkYzFiYmU5ZTlkNWJiZDU3ODEwYzJlZmU1YmIzNzBiM2VjZDMxYTk2OWE1OTYzZjk0YmVhZmNmMmEzMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDVhNmJkYzFiYmU5ZTlkNWJiZDU3ODEwYzJlZmU1YmIzNzBiM2VjZDMxYTk2OWE1OTYzZjk0YmVhZmNmMmEzMTBhIiwidWlkIjoiMjY1MzkwYjdmOGE5MjJlMzdjYmJkMTUwNmE5Y2JkMTkiLCJ1c2VybmFtZSI6Inppcm9ueWNobyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNTgxMTcwMCwiaGFzaCI6ImQ2YTRhZTA2ZjZjNjI5NmRjYWE1MjNmNzFlMDM5ZGI1YzE1MTI1YWIwN2FjMWM3MWYwYjU3ZWNmMTU2OTBhMDVlMGVlYmRhNmRjNGEyNTIxZTdiYTVjMzRmM2Q0YmZhZWVmOTdlYjcxMjkxYTFhZjMwNmYxM2U0OTc1NzY4ZmM2IiwiaGFzaF9tZXRhIjoiYTBlNWJhOTg2YjhkYTBjNTViYmViYTc0MWViMWY4Y2EyNWJjNzdiOTQ3ZDczNDFhN2NlNzMwYWJiMzI5MzI1NSIsInNlcW5vIjoxNDA5NjE1fSwic2VydmljZSI6eyJob3N0bmFtZSI6Inppcm9ueWNoby5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA1ODExNzA2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjUwYWE0YmExM2ZlZTVjOTgwNjRhNWRkZDFmZDg0OTE2NjMwYzQ2N2Y2NTkzYjhjN2IwMWEyMTUyNjI4NWZmNGEiLCJzZXFubyI6MTgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAdu2M2LIICU5rrS922GksGwosk0toDOQM/IsVFMGWP835FekI21qAxyCdz2xfyfGl6T+PcKo7Lkfw0gtjyt4UBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMkwGmxV+C3SPpQeGgIw/Ro5BLnnogZZW/SwLPbXT63Mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zironycho
+
+==================================================================
